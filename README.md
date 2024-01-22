@@ -1,6 +1,6 @@
 # HeaterMeter Redux
 
-@CapnBry created the original HeaterMeter temperature controller for Kamado BBQ's. This is a placeholder for a redux of that design.
+@CapnBry created the original HeaterMeter temperature controller for Kamado BBQ's. This is a placeholder for a new design I am working on.
 
 
 # License
